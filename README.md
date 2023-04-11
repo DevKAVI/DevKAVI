@@ -1,8 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=DevKAVI&fontAlign=80&fontAlignY=40&desc=A%20self-learning%20developer%20from%20Sri%20Lanka&descAlign=78&descAlignY=65&color=gradient&animation=fadeIn&fontSize=80&theme=tokyonight)
 
 <h2> 💻 &nbsp;Dev Stuff</h2>
-	
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/788694370760261642)
 [![wakatime](https://wakatime.com/badge/user/619a4dc4-433c-4c9b-8c58-526e3f0814fe.svg)](https://wakatime.com/@619a4dc4-433c-4c9b-8c58-526e3f0814fe)
 <img src="https://komarev.com/ghpvc/?username=devkavi&label=Profile%20views&color=0e75b6&style=flat" alt="devkavi" />
 
