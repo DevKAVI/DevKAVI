@@ -11,7 +11,6 @@
 
 <h2> 🗨️ &nbsp;Connect With Me</h2>
 <p align="left">
-  <a href="https://discord.com/users/788694370760261642"><img src="https://dcbadge.vercel.app/api/shield/788694370760261642" /></a>
   <a href="https://discord.gg/teriri"><img src="https://dcbadge.vercel.app/api/server/teriri" /></a>
 </p>
 
