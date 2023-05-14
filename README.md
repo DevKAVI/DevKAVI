@@ -10,9 +10,9 @@
   - 🌱 In the process of learning **nodeJS** and **React**
 
 <h2> 🗨️ &nbsp;Connect With Me</h2>
-<p align="left">
-  <a href="https://discord.gg/teriri"><img src="https://dcbadge.vercel.app/api/server/teriri" /></a>
-</p>
+
+ [![Discord Presence](https://lanyard.cnrad.dev/api/788694370760261642?idleMessage=Any%20questions?%20DM%20me...%20I'll%20respond%20as%20fast%20as%20I%20can.)](https://discord.com/users/788694370760261642)
+ 
 
 <h2> 🚀 &nbsp;Tools That I Have Used</h2>
 <img src="https://skillicons.dev/icons?i=vscode,github,git,netlify,postman,ps,pr," />
