@@ -19,6 +19,9 @@
 
 <h2> ☕ &nbsp;Languages And Frameworks That I Have Learned</h2>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,js,ts,nodejs,mongodb,discord,bots,py,bash,arduino" />
+<a href="https://wakatime.com/@DevKAVI">
+	<img alt="My wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevKAVI&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
 <h2> 💰 &nbsp;Support My Efforts</h2>
 <p><a href="https://www.buymeacoffee.com/devKAVI"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=devKAVI&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
