@@ -7,7 +7,7 @@
 
   - 🤖 Current dev of **Project LEGNA** for the Discord server of **[Teriri's Gaming Hub](https://discord.gg/teriri)**
 	
-  - 🌱 In the process of learning **nodeJS** and **React**
+  - 🌱 In the process of learning **nodeJS** and **NextJS**
 
 <h2> 🗨️ &nbsp;Connect With Me</h2>
 
@@ -15,13 +15,18 @@
  
 
 <h2> 🚀 &nbsp;Tools That I Have Used</h2>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,netlify,postman,ps,pr," />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,netlify,vercel,cloudflare,postman,ps,pr," />
 
-<h2> ☕ &nbsp;Languages And Frameworks That I Have Learned</h2>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,js,ts,nodejs,mongodb,discord,bots,py,bash,arduino" />
+<h2> ☕ &nbsp;Languages That I Have Learned and Used</h2>
 <a href="https://wakatime.com/@DevKAVI">
 	<img alt="My wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevKAVI&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+
+<h2> 🌠 &nbsp;Frameworks and Applications That I Have Experience With</h2>
+<img src="https://skillicons.dev/icons?i=bootstrap,angular,tailwind,next,nodejs,nestjs,mongodb,discord" />
+
+<h2> 📝 &nbsp;Stuff I'm Interested In and Learning</h2>
+<img src="https://skillicons.dev/icons?i=firebase,postgres,prisma,react,redis,workers" />
 
 <h2> 💰 &nbsp;Support My Efforts</h2>
 <p><a href="https://www.buymeacoffee.com/devKAVI"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=devKAVI&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a></p>
