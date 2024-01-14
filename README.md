@@ -5,9 +5,9 @@
 [![wakatime](https://wakatime.com/badge/user/619a4dc4-433c-4c9b-8c58-526e3f0814fe.svg)](https://wakatime.com/@619a4dc4-433c-4c9b-8c58-526e3f0814fe)
 <img src="https://komarev.com/ghpvc/?username=devkavi&label=Profile%20views&color=0e75b6&style=flat" alt="devkavi" />
 
-  - 🤖 Current dev of **Project LEGNA** for the Discord server of **[Teriri's Gaming Hub](https://discord.gg/teriri)**
+  - 🤖 Maintainer of **Project LEGNA** for the Discord server of **[Teriri's Gaming Hub](https://discord.gg/teriri)**
 	
-  - 🌱 In the process of learning **nodeJS** and **NextJS**
+  - 🌱 In the process of learning **[Rust](https://www.rust-lang.org)** and low level programming concepts.
 
 <h2> 🗨️ &nbsp;Connect With Me</h2>
 
