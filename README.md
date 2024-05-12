@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=DevKAVI&fontAlign=80&fontAlignY=40&desc=A%20self-learning%20developer%20from%20Sri%20Lanka&descAlign=78&descAlignY=65&color=gradient&animation=fadeIn&fontSize=80&theme=tokyonight)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=DevKAVI&fontAlign=80&fontAlignY=40&desc=A%20self-learning%20developer%20from%20Sri%20Lanka&descAlign=78&descAlignY=65&animation=fadeIn&fontSize=80&theme=merko)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/788694370760261642?idleMessage=Any%20questions?%20DM%20me...%20I'll%20respond%20as%20fast%20as%20I%20can.)](https://discord.com/users/788694370760261642)
 
