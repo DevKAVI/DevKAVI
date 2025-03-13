@@ -10,6 +10,9 @@
 ### Tools I Use
 <img src="https://skillicons.dev/icons?i=arch,vscode,webstorm,git,github,notion&perline=8" /><br>
 
+### Languages I Know
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust,php,bash&perline=8" /><br>
+
 ### Frontend Stack
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel&perline=8" /><br>
 
