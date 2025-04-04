@@ -8,7 +8,7 @@
 </a>
 
 ### Tools I Use
-<img src="https://skillicons.dev/icons?i=arch,vscode,webstorm,git,github,notion&perline=8" /><br>
+<img src="https://skillicons.dev/icons?i=arch,neovim,git,github,notion&perline=8" /><br>
 
 ### Languages I Know
 <img src="https://skillicons.dev/icons?i=js,ts,python,rust,php,bash&perline=8" /><br>
